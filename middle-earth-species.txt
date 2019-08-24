@@ -1,0 +1,7 @@
+Hobbits
+Elves
+Orcs
+Dwarfs
+Trolls
+Kraken
+Balrog
